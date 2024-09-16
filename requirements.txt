@@ -1,0 +1,6 @@
+PySide6
+numpy
+qtawesome
+black
+toml
+six
